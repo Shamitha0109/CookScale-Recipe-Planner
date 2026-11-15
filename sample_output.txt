@@ -1,0 +1,95 @@
+COOKSCALE – SAMPLE OUTPUT
+
+1. VIEW RECIPES
+
+Enter choice: 1
+
+Biryani serves 2 : {'Rice': 200, 'Chicken': 300, 'Onion': 2}
+Pulao serves 2 : {'Rice': 150, 'Carrot': 2, 'Onion': 1}
+
+
+2. SCALE RECIPE
+
+Enter choice: 2
+Recipe name: Biryani
+Required servings: 4
+
+Rice 400.0 g
+Chicken 600.0 g
+Onion 4.0 piece
+
+
+3. GROCERY LIST BEFORE PLANNING
+
+Enter choice: 4
+
+Please plan meals first!
+
+
+4. PLAN WEEKLY MEALS
+
+Enter choice: 3
+
+Mon recipe: Biryani
+Servings: 4
+
+Tue recipe: Pulao
+Servings: 2
+
+Wed recipe: Biryani
+Servings: 2
+
+Thu recipe: Pulao
+Servings: 4
+
+Fri recipe: Biryani
+Servings: 2
+
+Sat recipe: Pulao
+Servings: 2
+
+Sun recipe: Biryani
+Servings: 2
+
+
+5. COMBINED GROCERY LIST
+
+Enter choice: 4
+
+Rice 1600.0 g
+Chicken 1500.0 g
+Onion 14.0 piece
+Carrot 8.0 piece
+
+
+6. ESTIMATED GROCERY COST
+
+Enter choice: 5
+
+Estimated cost: Rs. 1431.0
+
+
+7. INVALID INPUT HANDLING
+
+Enter choice: 2
+Recipe name: Pizza
+Required servings: 2
+
+Recipe not found or servings invalid!
+
+Enter choice: 2
+Recipe name: Biryani
+Required servings: 0
+
+Enter positive whole servings!
+Recipe not found or servings invalid!
+
+
+8. EXIT
+
+Enter choice: 6
+
+Thank you for using CookScale!
+
+
+END OF SAMPLE OUTPUT
